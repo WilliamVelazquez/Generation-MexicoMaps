@@ -1,0 +1,36 @@
+.Footer{
+  /*margin-top: 15px;*/
+  /*position: fixed;*/
+  left: 0;
+  bottom: 0;
+  background-color: #494E59;
+  width: 100%;
+  padding-bottom: 25px;
+}
+
+.FooterLogo{
+  padding: 25px;
+}
+
+.About{
+  padding: 0px 25px;
+}
+
+.Footer h3{
+  font-size: 1.125em;
+  text-transform: uppercase;
+  color: #00B3A1;
+  margin-bottom: .5em;
+  font-weight: 400;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.Footer p{
+  font-size: 0.9375em;
+  line-height: 2em;
+  color: #9D9FA7;
+}
+
+.Author{
+  text-align: right;
+  color: #FFFFFF !important;
+}

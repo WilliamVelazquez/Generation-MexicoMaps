@@ -1,0 +1,29 @@
+tr{
+  padding-top: 10px;
+  font-size: 25px;
+}
+
+.StoreId{
+  text-align: right;
+}
+.StoreName{
+  padding-left: 30px;
+  text-align: left;
+  border-bottom: 3px solid #00b3a1;
+  border-radius: 0px 10px;
+}
+.StoreBtn{
+  padding-bottom: 15px;
+  padding-left: 30px;
+}
+
+@media (max-width: 768px) {
+  tr{
+    font-size: 18px;
+  }
+  .StoreBtn{
+    padding-bottom: 0px;
+    padding-left: 10px;
+  }
+
+}
