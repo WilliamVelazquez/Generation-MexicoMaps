@@ -18,7 +18,7 @@
   "author": "William Eduardo Velazquez Amarra <william.velazquez.a@gmail.com> (https://twitter.com/WilliamVlazquez)",
   "license": "MIT",
   "devDependencies": {
-    "babel-core": "6.26.0",
+    "babel-core": "^6.26.3",
     "babel-loader": "7.1.2",
     "babel-preset-es2015": "6.24.1",
     "babel-preset-react": "6.24.1",

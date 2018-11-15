@@ -2,6 +2,8 @@
 
 Web Application using Google Maps API with Front-End using React, developed by [William Velazquez](https://twitter.com/@WilliamVlazquez).
 
+[Live Website](https://williamvelazquez.github.io/Generation-MexicoMaps/)
+
 ## Aplication description
 
 - Mexico city Map
@@ -25,6 +27,10 @@ npm run build:prod
 
 ## Author & Credits
 - [William Velazquez](https://twitter.com/@WilliamVlazquez)
+
+## Screenshots
+
+![Application](./.readme-static/Application.png)
 
 ## License
 
